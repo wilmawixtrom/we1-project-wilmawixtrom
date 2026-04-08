@@ -8,13 +8,16 @@ Total time: 2 hours 55 minutes
   - Putted in my template
   - Added a background color to the page.
   - Starting to build the "header". The menu in the top.
+    
 2026-04-03 18:35 Worked for 15 minutes.
   - Changed my menu to an unorded list-element.
   - Started to think how I could use flex.
+    
 2026-04-04 18:57 Worked for 1 hour
   - Changed the buttons to links
   - Used flexbox to design the menu but realised that the ul element where wrong.
   - Used the instructions on vuxcode to try to fix the menu.
+    
 2026-04-08 10:00 Worked for 40 minutes
   - Put a picture in the code and tried to design it how I wanted it to be.
   - Fixed the problem with the links and updated the CSS code.
