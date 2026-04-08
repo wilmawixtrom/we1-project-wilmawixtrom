@@ -5,7 +5,8 @@
 1. Problem: Tried to set at with and hight to the bottons in the menu, noting happened. I added a justify property to my nav element. I first set the value to center, but then there was no space between the items. I changed the value to space-between, but according to (https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-css-flexbox-background) it might not work properly in Edge, so it's recommended to use center instead. Added a gap prpperty.
    Solved: Used flexbox
 2. Problem: Thought I solved the first problem, then I noticed then the closing tag of the ul element was'nt on the right place... I used the instructions on vuxcode to make the new menu. Worked fine but there is two links on the screen that I don't know where they came from.
-3. Problem: The LillyNailspicture were placed over my menu, I wanted it to lay beside the links.
+   Solved: I had missed a closingtag to one of the links.
+4. Problem: The LillyNailspicture were placed over my menu, I wanted it to lay beside the links.
    Solved: Discovered that I had made the nav element to a class in the CSS with a dot before the name (.nav) instead of (nav) that was the purpuse.
 
 
