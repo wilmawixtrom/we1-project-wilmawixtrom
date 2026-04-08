@@ -1,7 +1,7 @@
 body{
   background:#faf8f7;
   }
-.nav {
+nav {
   display: flex;
   justify-content: center;
   /*gap: 30px;*/
