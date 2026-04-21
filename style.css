@@ -26,6 +26,5 @@ li a:hover {
 }
 .LillyNailspic
 {
-  flex: auto;
-  border: 2px solid red;
+  flex: 1 1 50%;
 }
