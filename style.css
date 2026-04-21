@@ -4,8 +4,7 @@ body{
 nav {
   display: flex;
   justify-content: center;
-  /*gap: 30px;*/
-  align-content: stretch;
+  align-items: stretch;
   } 
   li a {
   display: block;
@@ -24,4 +23,9 @@ li {
 }
 li a:hover {
   background-color: #8f1b38;
+}
+.LillyNailspic
+{
+  flex: auto;
+  border: 2px solid red;
 }
