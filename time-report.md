@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 4 hours 10 minutes
+Total time: 5 hours 40 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -26,5 +26,8 @@ Total time: 4 hours 10 minutes
   - Tried to make the LillyNailspicture fit into the nav-element.
 
 2026-04-22 11:30 Worked for 45 minutes
-  - Fixed the LillyNailspicture fit into the nav-element and made the links and pic in the position that I wanted. 
+  - Fixed the LillyNailspicture fit into the nav-element and made the links and pic in the position that I wanted.
+
+2026-04-23 10:15 Worked for 1 hour 30 minutes
+  - Made the header and started to create the first article
   
