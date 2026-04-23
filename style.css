@@ -29,4 +29,11 @@ li {
 li a:hover {
   background-color: #8f1b38;
 }
+header {
+  display: flex;
+  align-items: center;
+}
+.header-div {
+border: #8f1b38;
+}
 
