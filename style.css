@@ -3,28 +3,31 @@ body{
 }
 nav {
   display: flex;
-  justify-content: space-between;
-  /*align-items: stretch;*/
+  justify-content: center;
 }
 .nav-figure {
-  display: flex;
-  justify-content: flex-start;
 }
 nav img {
-  width: 70px;
-}
+  width: 180px;
+  display: flex;
+  justify-content: center;
+} 
 li a {
   display: block; 
   padding: 16px;
   text-align: center;
-  text-decoration: none;
 }
 .nav-links {
   display: flex;
   justify-content: flex-start;
+  font-size: 90%;
+  gap: 200px;
+  padding: 16px 200px;
 }
 li {
   display: inline-block;
+  width: 101px;
+  height: 68px;
 }
 li a:hover {
   background-color: #362f30;
@@ -33,6 +36,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 30px;
 }
 .header-div {
 text-align: center;
@@ -57,4 +61,17 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+header img {
+  width: 150%;
+}
+header figure {
+  width: 300px;
+  height: 500px;
+}
+header h1 {
+  font-size: 300%;
+}
+header h2 {
+  font-size: 180%;
 }
