@@ -49,9 +49,12 @@ text-align: center;
   text-align: center;
 }
 .article1 {
-  width: 300px;
-  height: 500px;
+  width: 461px;
+  height: 615px;
   border: #49141c solid;
 }
 main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
