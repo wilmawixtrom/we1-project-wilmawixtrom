@@ -65,13 +65,13 @@ main {
 header img {
   width: 150%;
 }
-header figure {
+.header-figure {
   width: 300px;
   height: 500px;
 }
-header h1 {
+.header-h1 {
   font-size: 300%;
 }
-header h2 {
+.header-h2 {
   font-size: 180%;
 }
