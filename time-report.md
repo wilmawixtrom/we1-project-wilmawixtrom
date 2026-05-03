@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 7 hours 10 minutes
+Total time: 7 hours 40 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -34,4 +34,9 @@ Total time: 7 hours 10 minutes
 2026-04-27 10:15 Worked for 1 hour 30 minutes
   - Continued to fix the article
   - Fixed sizes in nav and header
+
+2026-05-03 10:15 Worked for 30 minutes
+  - Continued to fix the article, putted the headers in the middle.
+  - Tried to do the same with button.
+    
   
