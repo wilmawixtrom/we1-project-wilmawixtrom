@@ -12,5 +12,6 @@
    Solved: Tried to make the picture smaller by setting a max. hight to the nav. element. Didn't work.Read how to fix it on the flex-website that Colin recomended. Made a class, didn't work at fort but then I realised that one letter was in lowercase letter... Read more about flex and slept on it and reset my classes. Tried again and moved my classes to different elements. It worked but the pic is in a weird shape and it will probably not work on every screen but I will look on that later.
 6. Problem: Weird size on LillyNailspic
 7. Problem: Nav will probably not work on every screen size.
+8. Problem: The content in one article is not in the middle anymore. Solved: I took away the size of the div-elements with the headers and changed it to 100% and made the div a flex-container and put wrap on it. 
 
 
