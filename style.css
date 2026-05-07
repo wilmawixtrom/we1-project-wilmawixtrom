@@ -45,7 +45,8 @@ text-align: center;
   width: 100px;
   height: 50px;
   text-align: center;
-  Border: red, solid;
+  Border: rgb(158, 115, 22), solid;
+  margin: auto;
 }
 .botton-text {
   width: 100%;
@@ -55,12 +56,15 @@ text-align: center;
   text-align: center;
   display: flex;
   flex-wrap: wrap;
-  
+  width: 420px;
+  margin: auto;
 }
 .article1 {
   width: 461px;
   height: 615px;
-  border: #49141c solid;
+  display: flex; 
+  flex-direction: column;
+  background-color: rgb(232, 231, 225);
 }
 main {
   display: flex;
@@ -89,6 +93,7 @@ nav div {
 .article-h3 {
   font-size: 250%;
   width: 100%;
+
 }
 .article-h4 {
   font-size: 150%;
