@@ -22,15 +22,12 @@ li a {
   justify-content: flex-start;
   font-size: 90%;
   gap: 200px;
-  padding: 16px 200px;
+  margin: 16px 200px;
 }
 li {
   display: inline-block;
-  width: 101px;
+  width: 102px;
   height: 68px;
-}
-li a:hover {
-  background-color: #362f30;
 }
 header {
   display: flex;
@@ -93,9 +90,18 @@ nav div {
 .article-h3 {
   font-size: 250%;
   width: 100%;
-
 }
 .article-h4 {
   font-size: 150%;
   width: 100%;
+}
+.link-nav {
+}
+a:link,
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: #4b4143 ;
 }
