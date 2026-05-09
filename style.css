@@ -1,5 +1,5 @@
 body{
-  background:#faf8f7;
+  background:#f6f6f6;
 }
 nav {
   display: flex;
@@ -66,15 +66,11 @@ main {
   align-items: center;
   justify-content: center;
 }
-header img {
-  width: 150%;
-}
-.header-figure {
+/*.header-figure {
   width: 300px;
   height: 500px;
   justify-content: center;
-
-}
+}*/
 .header-h1 {
   font-size: 300%;
 }
@@ -105,5 +101,24 @@ a:hover {
 }
 .header-behandlingar {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+
+}
+.figure-behandlignar {
+  width: 400px;
+  height: 400px;
+}
+.headersmain-behandlingar {
+  text-align: center;
+}
+.main-behandlingar {
+  display: flex;
+  flex-direction: column;
+}
+.article-behandlingar {
+  width: 100%;
+  height: auto;
+}
+.div-behandlingar {
+  flex-grow: 1;
 }
