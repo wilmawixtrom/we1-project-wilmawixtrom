@@ -116,9 +116,24 @@ a:hover {
   flex-direction: column;
 }
 .article-behandlingar {
-  width: 100%;
+  display: flex;
+  width: auto;
   height: auto;
 }
 .div-behandlingar {
-  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  width: 530px;
+  
+}
+.eftervard-text {
+  font-size: 150%;
+}
+.eftervard-figure {
+  margin: 0px;
+}
+.div-eftervard { 
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
 }
