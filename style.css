@@ -59,7 +59,7 @@ text-align: center;
   height: 615px;
   display: flex; 
   flex-direction: column;
-  background-color: rgb(232, 231, 225);
+  background-color: #e8e7e1;
 }
 main {
   display: flex;
@@ -123,7 +123,7 @@ a:hover {
 .div-behandlingar {
   display: flex;
   align-items: center;
-  width: 530px;
+  width: 530px; 
   
 }
 .eftervard-text {
@@ -136,4 +136,40 @@ a:hover {
   display: flex;
   flex-direction: row;
   gap: 50px;
+}
+.section-behandlingar {
+  background-color: #e8e7e1;
+  width: 1350px;
+  text-align: center;
+}
+.fraga-behandlingar {
+  font-size: 150%;
+}
+.svar-behandlingar {
+  font-size: 130%;
+}
+.div-priser {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+.div-priser2 {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.divbehandlingar-container {
+  display: flex;
+  flex-direction: row;
+}
+.section-priser {
+  width: 1350px;
+}
+.div-prisbox {
+display: flex;
+align-items: flex-end;
+width: 50%;
+}
+.behandlingar-text {
+  font-size: 120%;
 }
