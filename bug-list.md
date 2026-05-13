@@ -15,6 +15,7 @@
 8. Problem: The content in one article is not in the middle anymore. Solved: I took away the size of the div-elements with the headers and changed it to 100% and made the div a flex-container and put wrap on it. '
 9. Problem: The text in the article is in the middle but not the botton.
 Solved: Tried to set the .botton to flex and justifycontent to center. Didn't work.
-10. Problem: I wanted the text on page 2 to be in a column but then the text under my "Eftervård" also came in a column and I wanted them to be in a row. Solved: Tried different comination to make boxes and put flex on them. I separated the articles into smaller boxes but it didn't work. Then I realised I needed a bigger box around the articles and made the whole box a container and changed the direction to row. 
+10. Problem: I wanted the text on page 2 to be in a column but then the text under my "Eftervård" also came in a column and I wanted them to be in a row. Solved: Tried different comination to make boxes and put flex on them. I separated the articles into smaller boxes but it didn't work. Then I realised I needed a bigger box around the articles and made the whole box a container and changed the direction to row.
+11. Problem: Links in nav is placed wrong.
 
 
