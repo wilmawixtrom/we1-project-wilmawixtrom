@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 12 hours 30 minutes
+Total time: 13 hours 40 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -51,5 +51,10 @@ Total time: 12 hours 30 minutes
 2026-05-11 12:30 Worked for 1 hour and 30 minutes
   - Continued to make the article on page 2.
   - Started to make the price list.
+
+2026-05-13 10:50 Worked for 1 hour and 10 minutes
+  - Finished the price list.
+  - Small adjustment on font size.
+  - Added some pictures
     
   
