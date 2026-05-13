@@ -18,13 +18,13 @@ li a {
 .nav-links {
   display: flex;
   justify-content: flex-start;
-  font-size: 90%;
-  gap: 200px;
+  font-size: 25px;
+  gap: 150px;
   margin: 16px 200px;
 }
 li {
   display: inline-block;
-  width: 102px;
+  width: 150px;
   height: 68px;
 }
 .header-home {
@@ -110,6 +110,7 @@ a:hover {
 }
 .headersmain-behandlingar {
   text-align: center;
+  font-size: 300%;
 }
 .main-behandlingar {
   display: flex;
@@ -123,11 +124,11 @@ a:hover {
 .div-behandlingar {
   display: flex;
   align-items: center;
-  width: 530px; 
-  
+  width: 530px;
+  gap: 20px;
 }
 .eftervard-text {
-  font-size: 150%;
+  font-size: 170%;
 }
 .eftervard-figure {
   margin: 0px;
@@ -143,33 +144,36 @@ a:hover {
   text-align: center;
 }
 .fraga-behandlingar {
-  font-size: 150%;
+  font-size: 190%;
 }
 .svar-behandlingar {
-  font-size: 130%;
+  font-size: 160%;
 }
 .div-priser {
   display: flex;
   flex-direction: row;
   width: 50%;
+  font-size: 150%;
 }
 .div-priser2 {
   display: flex;
   flex-direction: column;
-  width: 50%;
 }
 .divbehandlingar-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .section-priser {
-  width: 1350px;
+width: 1350px;
 }
 .div-prisbox {
+justify-content: space-between;
 display: flex;
-align-items: flex-end;
-width: 50%;
+width: 100%;
 }
 .behandlingar-text {
   font-size: 120%;
+}
+.text-prislista {
+  font-size: 150%;
 }
