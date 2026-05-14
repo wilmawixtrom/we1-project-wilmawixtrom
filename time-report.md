@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 14 hours 20 minutes
+Total time: 15 hours 20 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -59,5 +59,8 @@ Total time: 14 hours 20 minutes
 
 2026-05-13 19:15 Worked for 40 minutes
   - Changed sizes on some elements on the "homepage".
-    
+
+2026-05-14 19:15 Worked for 1 hour
+  - Started to make the "contactpage"
+  - Found a way to make a "livemap" instead of a picture.
   
