@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 15 hours 20 minutes
+Total time: 17 hours 20 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -64,6 +64,7 @@ Total time: 15 hours 20 minutes
   - Started to make the "contactpage"
   - Found a way to make a "livemap" instead of a picture.
 
-2026-05-16 20:15 Worked for 1 hour
-  - Changed my nav-element and made it better. Decided to take away one category and fixed the element with flexbox insted of with margin and padding. 
+2026-05-16 20:15 Worked for 2 hours
+  - Changed my nav-element and made it better. Decided to take away one category and fixed the element with flexbox insted of with margin and padding.
+  - Tried to make the header-element fit on all screen sizes.
   
