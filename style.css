@@ -1,31 +1,47 @@
 body{
   background:#f6f6f6;
+  margin: 0px
 }
 nav {
   display: flex;
+  width: 100%;
   justify-content: center;
+  background-color: #cbb4b9;
 }
 nav img {
   width: 180px;
-  display: flex;
-  justify-content: center;
 } 
-li a {
-  display: block; 
-  padding: 16px;
-  text-align: center;
+.nav-figure {
+  justify-content: flex-start;
+  display: flex;
+  width: 100%;
 }
 .nav-links {
   display: flex;
-  justify-content: flex-start;
-  font-size: 25px;
-  gap: 150px;
-  margin: 16px 200px;
+  justify-content: flex-end;
+  gap: 30px;
+  min-width: 0;
+  margin: 40px;
 }
 li {
   display: inline-block;
   width: 150px;
   height: 68px;
+}
+.link-nav {
+  width: auto;
+  align-content: center;
+  height: 100%;
+}
+a:link,
+a:visited {
+  color: black;
+  text-decoration: none;
+  font-size: 150%;
+  flex-shrink: 1;
+}
+a:hover {
+  color: #4b4143 ;
 }
 .header-home {
   display: flex;
@@ -37,8 +53,8 @@ li {
 text-align: center;
 }
 .botton {
-  width: 100px;
-  height: 50px;
+  width: 200px;
+  height: 80px;
   text-align: center;
   Border: rgb(158, 115, 22), solid;
   margin: auto;
@@ -46,17 +62,18 @@ text-align: center;
 .botton-text {
   width: 100%;
   height: 100%;
+  font-size: 160%;
 }
 .article-div1 {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
-  width: 420px;
+  width: 500px;
   margin: auto;
 }
 .article1 {
-  width: 461px;
-  height: 615px;
+  width: 675px;
+  height: 850px;
   display: flex; 
   flex-direction: column;
   background-color: #e8e7e1;
@@ -66,38 +83,31 @@ main {
   align-items: center;
   justify-content: center;
 }
-/*.header-figure {
-  width: 300px;
+.header-figure {
+  width: 500px;
   height: 500px;
-  justify-content: center;
-}*/
+}
+.picture-nav {
+  width: 500px;
+  height: 500px;
+}
 .header-h1 {
-  font-size: 300%;
+  font-size: 400%;
 }
 .header-h2 {
-  font-size: 180%;
+  font-size: 250%;
 }
 nav div {
   display: flex;
   justify-content: center;
 }
 .article-h3 {
-  font-size: 250%;
+  font-size: 360%;
   width: 100%;
 }
 .article-h4 {
-  font-size: 150%;
+  font-size: 200%;
   width: 100%;
-}
-.link-nav {
-}
-a:link,
-a:visited {
-  color: black;
-  text-decoration: none;
-}
-a:hover {
-  color: #4b4143 ;
 }
 .header-behandlingar {
   display: flex;
@@ -115,6 +125,7 @@ a:hover {
 .main-behandlingar {
   display: flex;
   flex-direction: column;
+  gap: 50px;
 }
 .article-behandlingar {
   display: flex;
@@ -176,4 +187,12 @@ width: 100%;
 }
 .text-prislista {
   font-size: 150%;
+}
+.hittahit-header {
+
+}
+iframe {
+  width: 1350px;
+  height: 600px;
+  border: 0;
 }
