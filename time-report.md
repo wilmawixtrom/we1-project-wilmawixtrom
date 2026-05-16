@@ -63,4 +63,7 @@ Total time: 15 hours 20 minutes
 2026-05-14 19:15 Worked for 1 hour
   - Started to make the "contactpage"
   - Found a way to make a "livemap" instead of a picture.
+
+2026-05-16 20:15 Worked for 1 hour
+  - Changed my nav-element and made it better. Decided to take away one category and fixed the element with flexbox insted of with margin and padding. 
   
