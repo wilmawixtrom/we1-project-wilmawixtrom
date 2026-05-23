@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 17 hours 20 minutes
+Total time: 18 hours 30 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -68,3 +68,5 @@ Total time: 17 hours 20 minutes
   - Changed my nav-element and made it better. Decided to take away one category and fixed the element with flexbox insted of with margin and padding.
   - Tried to make the header-element fit on all screen sizes.
   
+2026-05-23 16:01 Worked for 1 hour and 10 minutes.
+  - Changed the header on the homepage because it didn't feel proffesional.
