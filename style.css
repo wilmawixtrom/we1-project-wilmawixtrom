@@ -15,6 +15,7 @@ nav {
   justify-content: center;
   background-color: #fff5f6;
   position: fixed;
+  opacity: 0.9;
 }
 nav img {
   width: 15%;
@@ -52,7 +53,7 @@ li {
 .link-nav2:visited {
   color: #4f4f4f;
   text-decoration: none;
-  font-size: 110%;
+  font-size: 140%;
   flex-shrink: 1;
   font-family: "Playfair Display"
 }
@@ -74,7 +75,7 @@ nav div {
 .header-container {
   width: 100%;
   height: 80%;
-  margin: 0% 0% 8% 0%;
+  margin: 0%;
   background-image: url("header.jpg");
   background-size: cover;
   background-position: center;
@@ -128,7 +129,6 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100%;
   width: 100%;
   flex-direction: column;
 }
@@ -138,12 +138,18 @@ main {
 }*/
 /*ARTICLE 1*/
 .botton {
-  width: 30%;
-  height: 12%;
+  width: 35%;
   text-align: center;
   margin: auto;
   background-color: #fff5f6;
   border-radius: 20px;
+  transition: 0.3s;
+}
+.botton:hover {
+  transform: scale(1.1);
+}
+.div-botton {
+  margin-top: 20%;
 }
 .botton-text:link,
 .botton-text:visited {
@@ -153,13 +159,12 @@ main {
   color:#4f4f4f;
   width: 100%;
   height: 100%;
+  padding: 8% 0;
+  text-align: center;
   text-decoration: none;
   font-size: 150%;
   font-family: "Playfair Display"
-}
-.botton-text:hover {
-  color: #e8e8e8 ;
-  font-family: "Playfair Display"
+
 }
 .article-div1 {
   display: flex;
@@ -176,7 +181,6 @@ main {
   height: 100%;
   display: flex; 
   background-color: #ffffff;
-  display: flex;
   flex-direction: column;
 }
 .article-h1 {
@@ -219,45 +223,30 @@ main {
   display: flex;
   width: 100%;
   justify-content: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 .section1 {
   display: flex;
   width: 100%;
 }
+.img-main1 {
+  width: 100%;
+ /* background-image: url("bildlänk2.jpg");
+  background-size: cover;
+  background-position: center;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
 .figure-main1 {
-  width: 400px;
-  height: 400px;
-  background-image: url("header.jpg");
-  background-size: cover;
-  background-position: center;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 20px;
 }
-.figure-main2 {
-  width: 400px;
-  height: 400px;
-  background-image: url("header.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 20px;
-}
-.figure-main3 {
-  width: 400px;
-  height: 400px;
-  background-image: url("header.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 20px;
-}
-.figure-behandlignar1 {
+.figure-behandlingar1 {
   width: 400px;
   height: 400px;
   background-image: url("header.jpg");
@@ -286,6 +275,16 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.behandlingar-länkar {
+  font-size: 220%;
+  flex-shrink: 1;
+  color: #f8f3ef;
+  text-shadow: 0px 2px 6px rgba(0,0,0,0.25);
+  position: absolute;
+  font-family: "Playfair Display"
+  
+
 }
 /*HEADER BEHANDLINGAR*/
 .header-behandlingar {
@@ -374,4 +373,31 @@ iframe {
   width: 1350px;
   height: 600px;
   border: 0;
+}
+/*FOOTER*/
+footer {
+  display: flex;
+  width: 100%;
+  height: 20%;
+  justify-content: center;
+  background-color: #ecc9cc;
+}
+.footer-div {
+  width: 30%;
+  margin: auto;
+}
+.footer-figure {
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  margin: 0%
+}
+.footer-img {
+  width: 60%;
+}
+.footer-text {
+  font-size: 110%;
+  margin: 0% 10% 0%;
+  color: #4f4f4f;
+  font-family: "Playfair Display"
 }
