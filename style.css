@@ -216,11 +216,46 @@ main {
 }
 /*SECTION HEM*/
 .section2 {
-
+  display: flex;
+  width: 100%;
+  justify-content: center;
 }
 .section1 {
   display: flex;
   width: 100%;
+}
+.figure-main1 {
+  width: 400px;
+  height: 400px;
+  background-image: url("header.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.figure-main2 {
+  width: 400px;
+  height: 400px;
+  background-image: url("header.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+.figure-main3 {
+  width: 400px;
+  height: 400px;
+  background-image: url("header.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
 }
 .figure-behandlignar1 {
   width: 400px;
