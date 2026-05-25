@@ -28,7 +28,7 @@ This project has been very fun, but I wish I had more time. At the same time as 
 
 Things I did not have enough time to improve on the website but would have liked to:
 
-Remove all validation warnings. I managed to fix all the errors, but not the warnings. I received warnings because I had used <h1> several times on the same page. I knew that headings should continue with <h2>, <h3>, and so on, but I thought that if several headings were meant to have the same size or take up the same “place” on the page, they should use the same heading tag. I now understand that this is not how it works. I tried to change it, but when I did, several other parts of the website also changed and I did not have enough time to fix everything properly.
+Remove all validation warnings. I managed to fix all the errors, but not the warnings. I received warnings because I had used h1 several times on the same page. I knew that headings should continue with h2, h3, and so on, but I thought that if several headings were meant to have the same size or take up the same “place” on the page, they should use the same heading tag. I now understand that this is not how it works. I tried to change it, but when I did, several other parts of the website also changed and I did not have enough time to fix everything properly.
 
 - I would have liked to organise my CSS code better. I started doing it but did not have enough time to fully review it before submitting the project.
 - I would have liked to make sure that the HTML document had completely correct indentation and spacing before all tags. I also did not have enough time for that.
