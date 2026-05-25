@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 22 hours 30 minutes
+Total time: 27 hours 30 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
@@ -74,5 +74,13 @@ Total time: 22 hours 30 minutes
 2026-05-23 18:23 Worked for 2 hours
   - Started to change the first article
     
-2026-05-24 11:39 Worked for 2 hours
+2026-05-24 11:39 Worked on and off for 5 hours
   - Finished the new article and started to add more pictures
+  - Finished the homje page and behandlingar-page.
+  - Did a footer
+  - Added fonts and more design
+  - 
+2026-05-25  Worked on and off for 3 hours
+  - Finished the kontakt-page
+  - Changed the layout on the kontakt-page.
+  - Added a form
