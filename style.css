@@ -54,12 +54,11 @@ li {
   color: #4f4f4f;
   text-decoration: none;
   font-size: 140%;
-  flex-shrink: 1;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 .link-nav2:hover {
   color: #e8e8e8 ;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 .picture-nav {
   width: 100%;
@@ -112,19 +111,17 @@ nav div {
 }
 .header-h1 {
   font-size: 500%;
-  flex-shrink: 1;
   color: #f8f3ef;
   text-shadow: 0px 2px 6px rgba(0,0,0,0.40);
   margin: 0px;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 .header-h2 {
   font-size: 300%;
-  flex-shrink: 1;
   color: #f8f3ef;
   text-shadow: 0px 2px 8px rgba(0,0,0,0.35);
   margin: 0px;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 .article-h3 {
   font-size: 130%;
@@ -132,7 +129,7 @@ nav div {
   flex-shrink: 1;
   color: #fffaf7;
   text-shadow: 0px 2px 8px rgba(0,0,0,0.35);
-  font-family: sans-serif;
+  font-family: sans-serif,Arial, Helvetica;
   font-weight: 520;
 }
 /*MAIN*/
@@ -143,10 +140,6 @@ main {
   width: 100%;
   flex-direction: column;
 }
-/*.section1 {
-  display: flex;
-  width: 100%;
-}*/
 /*ARTICLE 1*/
 .botton {
   width: 35%;
@@ -174,22 +167,19 @@ main {
   text-align: center;
   text-decoration: none;
   font-size: 150%;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 
 }
 .article-div1 {
   display: flex;
   flex-wrap: wrap;
-  width: auto;
 }
 .article-div2 {
   display: flex;
   flex-wrap: wrap;
-  width: auto;
 }
 .article1 {
   width: 50%;
-  height: 100%;
   display: flex; 
   background-color: #ffffff;
   flex-direction: column;
@@ -199,7 +189,7 @@ main {
   width: 100%;
   margin: 15% 10% 0%;
   color: #ecc9cc;
-  font-family: sans-serif;
+  font-family: sans-serif, Arial, Helvetica;
   font-weight: 530;
   
 }
@@ -208,12 +198,12 @@ main {
   width: 100%;
   margin: 0% 10% 0%;
   color: #4f4f4f;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 .article-p {
   font-size: 120%;
   margin: 5% 10% 0%;
-  font-family: sans-serif;
+  font-family: sans-serif, Arial, Helvetica;
   color: #4f4f4f;
 }
 .selfie-container {
@@ -227,7 +217,6 @@ main {
   display: flex;
   width: 100%;
   border-radius: 20px;
-  justify-content: flex-end;
 }
 /*SECTION HEM*/
 .section2 {
@@ -243,9 +232,6 @@ main {
 }
 .img-main1 {
   width: 100%;
- /* background-image: url("bildlänk2.jpg");
-  background-size: cover;
-  background-position: center;*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -257,43 +243,13 @@ main {
   justify-content: center;
   align-items: center;
 }
-.figure-behandlingar1 {
-  width: 400px;
-  height: 400px;
-  background-image: url("header.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.figure-behandlignar2 {
-  width: 400px;
-  height: 400px;
-  background-image: url("header.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.figure-behandlignar3 {
-  width: 400px;
-  height: 400px;
-  background-image: url("header.jpg");
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .behandlingar-länkar {
   font-size: 220%;
   flex-shrink: 1;
   color: #f8f3ef;
   text-shadow: 0px 2px 6px rgba(0,0,0,60);
   position: absolute;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
   
 
 }
@@ -317,13 +273,17 @@ main {
 .section-priser {
 width: 90%;
 }
+.text-prislista {
+  font-size: 150%;
+  font-family: sans-serif, Arial, Helvetica;
+}
 .headersmain-h2 {
   font-size: 160%;
   width: 100%;
   margin-bottom: 5%;
   margin-top: 0;
   color: #4f4f4f;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 .div-prisbox {
 justify-content: space-between;
@@ -340,7 +300,7 @@ width: 100%;
 }
 .prislista-p {
   font-size: 150%;
-  font-family: sans-serif;
+  font-family: sans-serif, Arial, Helvetica;
   color: #4f4f4f;
   margin-top: 0;
 }
@@ -363,7 +323,7 @@ width: 100%;
 .eftervard-text {
   font-size: 110%;
   width: 100%;
-  font-family: sans-serif;
+  font-family: sans-serif, Arial, Helvetica;
   color: #4f4f4f;
 }
 .eftervard-figure {
@@ -393,21 +353,21 @@ width: 100%;
   width: 100%;
   margin: 0% 0% 3%;
   color: #4f4f4f;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
 /*F&S*/
 .fraga-behandlingar {
   font-size: 190%;
   width: 100%;
   color: #ecc9cc;
-  font-family: sans-serif;
+  font-family: sans-serif, Arial, Helvetica;
   font-weight: 530;
 }
 .svar-behandlingar {
   font-size: 160%;
   width: 100%;
   color: #4f4f4f;
-  font-family: sans-serif;
+  font-family: sans-serif, Arial, Helvetica;
   font-weight: 530;
 }
 .section-FS {
@@ -417,20 +377,127 @@ width: 100%;
 .article-FS {
   border-bottom: solid;
 }
-
 .behandlingar-text {
   font-size: 120%;
+  font-family: sans-serif, Arial, Helvetica;
 }
-.text-prislista {
-  font-size: 150%;
+/*KONTAKT*/
+.Hittahit-container {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  margin: 5% 5%;
+  justify-content: flex-end;
 }
-.hittahit-header {
-
+.header-container3 {
+  width: 100%;
+  height: 80%;
+  margin: 0%;
+  background-image: url("header3.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.article-kontakt {
+  width: 80%;
+  background-color: #fff5f6;
+}
+.article-div3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 15%;
+  gap: 10%;
+}
+.instagram-bild {
+transition: 0.3s;
+}
+.instagram-bild:hover {
+  transform: scale(1.1);
 }
 iframe {
-  width: 1350px;
-  height: 600px;
+  width: 100%;
+  height: 100%;
   border: 0;
+  border-radius: 8%;
+}
+.hittahit-section1 {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+}
+.hittahit-section2 {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  margin-top: 5%;
+  margin-bottom: 10%;
+  justify-content: center;
+}
+.naglar-container {
+  display: flex;
+  width: 30%;
+  height: 100%;
+  margin: 5% 5%;
+}
+.naglar-3 {
+  width: 100%;
+  height: 100%;
+  border-radius: 8%;
+}
+.kontakt-form {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  gap: 15px;
+  margin: auto;
+}
+
+.kontakt-form label {
+  font-family: sans-serif, Arial, Helvetica;
+  color: #4f4f4f;
+  font-size: 120%;
+}
+
+.kontakt-form input,
+.kontakt-form textarea {
+  padding: 3%;
+  border: 1px solid #ecc9cc;
+  border-radius: 20px;
+  font-size: 100%;
+  font-family: sans-serif, Arial, Helvetica;
+}
+
+.kontakt-form textarea {
+  resize: vertical;
+  border-radius: 20px;
+}
+
+.skicka-knapp {
+  background-color: #fff5f6;
+  border: none;
+  border-radius: 20px;
+  padding: 3%;
+  font-size: 140%;
+  font-family: "Playfair Display", Georgia, serif;
+  color: #4f4f4f;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.skicka-knapp:hover {
+  transform: scale(1.05);
+}
+.kontakt-rubrikcontainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.kontakt-rubriktext {
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 250%;
+  color: #4f4f4f;
 }
 /*FOOTER*/
 footer {
@@ -439,6 +506,7 @@ footer {
   height: 20%;
   justify-content: center;
   background-color: #ecc9cc;
+  margin-top: 5%;
 }
 .footer-div {
   width: 30%;
@@ -457,5 +525,5 @@ footer {
   font-size: 110%;
   margin: 0% 10% 0%;
   color: #4f4f4f;
-  font-family: "Playfair Display"
+  font-family: "Playfair Display", Georgia, serif;
 }
