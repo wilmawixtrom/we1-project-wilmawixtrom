@@ -2,7 +2,7 @@
 
 > Write about what you have done and how long you have worked on each part of the project.
 
-Total time: 27 hours 30 minutes
+Total time: 29 hours 30 minutes
 
 2026-03-28 18:00 Worked for 1 hour.
   - Putted in my template
